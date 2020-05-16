@@ -1,9 +1,10 @@
 # Buy and Selling Homes in King County
+
   
   ## mulitple regression on King County Housing Dataset
   
   
- Authors: Brennan Mthia
+ Author: Brennan Mathia
  
  The contents of this repository contain a detailed analysis of the provided King County Washington dataset. (kc_house_data.csv)
  
@@ -15,6 +16,15 @@
  What variables affect price overall, and use to predict price
  
 
- ![violinplot1](DSC/mod2/mod2_kc_housing_regression/kc_gradevsprice_violin.png)
+ ![age/gradeboxplot](https://github.com/br3nnan8/mod2_kc_housing_regression/blob/master/visualizations/kc_age_grade_boxplot.png)
  
+ ![age/pricescatter](https://github.com/br3nnan8/mod2_kc_housing_regression/blob/master/visualizations/kc_ageprice_scatter.png)
+ 
+ ![violinplot1](https://github.com/br3nnan8/mod2_kc_housing_regression/blob/master/visualizations/kc_bedvsprice_violin.png)
+ 
+ ![violinplot2](https://github.com/br3nnan8/mod2_kc_housing_regression/blob/master/visualizations/kc_gradevsprice_violin.png)
+ 
+ ![lot/pricekde](https://github.com/br3nnan8/mod2_kc_housing_regression/blob/master/visualizations/kc_lotsizeprice_kde.png)
+ 
+![lot/pricekde](https://github.com/br3nnan8/mod2_kc_housing_regression/blob/master/visualizations/kc_renovatedvsnonrenovated_kde.png)
  
