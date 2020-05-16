@@ -14,5 +14,7 @@
  Does the age of the home affect the grade/condition of the home, therefore affecting price? Historic homes?
  What variables affect price overall, and use to predict price
  
- kc_gradevsprice_violin.png
+
+ ![violinplot1](DSC/mod2/mod2_kc_housing_regression/kc_gradevsprice_violin.png)
+ 
  
