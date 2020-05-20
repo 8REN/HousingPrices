@@ -37,6 +37,12 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 from sklearn.model_selection import KFold
 
+## Simple Linear Regression perfomed on individual variables
+
+## Multiple Regression performed on :
+### 'price', 'bedrooms', 'bathrooms', 'condition', 'grade', 'age', 'sqm_living', 'sqm_living15', 'sqm_lot',  and 'distance_seattle'
+### 'price', 'condition', 'grade', 'age'
+
  ![age/gradeboxplot](https://github.com/br3nnan8/mod2_kc_housing_regression/blob/master/visualizations/kc_age_grade_boxplot.png)
  
  ![age/pricescatter](https://github.com/br3nnan8/mod2_kc_housing_regression/blob/master/visualizations/kc_ageprice_scatter.png)
@@ -49,6 +55,6 @@ from sklearn.model_selection import KFold
  
 ![lot/pricekde](https://github.com/br3nnan8/mod2_kc_housing_regression/blob/master/visualizations/kc_renovatedvsnonrenovated_kde.png)
  
- To expand on this project, I would like to assess scaling the continuous data and providing more weight to certain variables in the model.
+ To expand on this project, I would like to assess scaling the continuous data and providing more weight to certain variables in the model. Additional regressions with polynomials as well.
  
  
